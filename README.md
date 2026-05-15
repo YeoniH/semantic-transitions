@@ -135,7 +135,7 @@ UMAP visualises local neighbourhoods and cluster-like structure. It is useful fo
 
 ### Persistent homology
 
-Persistent homology summarises the multi-scale shape of the response space. In this workflow:
+[Persistent homology](https://en.wikipedia.org/wiki/Persistent_homology) summarises the multi-scale shape of the response space. In this workflow:
 
 - H0 persistence may indicate durable separation among discourse regions;
 - H1 persistence may indicate loop-like or trade-off geometry;
