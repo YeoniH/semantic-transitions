@@ -1,0 +1,9 @@
+file_key,path,exists,size_mb
+aggregate_standardized,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_aggregate_standardized.csv,True,26.63
+binary,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_binary.csv,True,10.75
+participants,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_participants.csv,True,4.98
+preference,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_preference.csv,True,13.65
+verbatim_map,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_verbatim_map.csv,True,4.38
+summary,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_summary.csv,True,0.07
+discussion_guide,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_discussion_guide.csv,True,0.03
+embeddings,/home/sungyeon/research/global-dialogues/Data/GD3/GD3_embeddings.json,True,808.41
