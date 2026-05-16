@@ -1,6 +1,6 @@
 # Semantic Transitions in Public Deliberation on AI
 
-A preliminary computational workflow for analysing the Collective Intelligence Project (CIP)'s public **Global Dialogues** data.
+A preliminary computational workflow for analysing the [Collective Intelligence Project](https://www.cip.org/) (CIP)'s public **Global Dialogues** data.
 
 This repository supports a research-fellowship proposal tentatively titled:
 
@@ -36,8 +36,6 @@ In this workflow, the term **candidate transition-sensitive prompt** is preferre
 These should be interpreted as candidates for further qualitative and process-level investigation, not as direct evidence that participants changed their reasoning.
 
 ## Data
-
-This repository does **not** redistribute CIP's Global Dialogues data.
 
 Clone/download the public data separately:
 
