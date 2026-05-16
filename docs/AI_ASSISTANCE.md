@@ -1,5 +1,11 @@
 # AI Assistance and Research Transparency
 
+In the midst of the uncertainty surrounding the integration of AI tools into many aspects of life and work, I believe that transparency and accountability should be prioritised whenever these tools are used. Within the intellectual and research sphere, AI tools are best understood as assistants for exploration, iteration, and workflow acceleration, rather than as substitutes for scholarly judgement.
+
+In my own work, I use AI tools to support coding, literature scoping, methodological brainstorming, debugging, documentation, and the restructuring of research workflows. They have been particularly useful in moving between conceptual design and implementation: for example, translating a methodological idea into a reproducible Python pipeline, stress-testing possible interpretations, or generating alternative ways to visualise complex results.
+
+For this reason, the researcher’s role is clearer and more important than ever. Researchers must retain agency and responsibility throughout the process: selecting appropriate uses of AI, checking the correctness of outputs, identifying overclaims or errors, and ensuring that the workflow remains aligned with the research questions, methodological commitments, and standards of scholarly integrity.
+
 This repository was developed with assistance from OpenAI's ChatGPT.
 
 ChatGPT was used as:
